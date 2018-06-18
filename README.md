@@ -5,6 +5,6 @@
 
 在你網站的頁尾檔其中加上這段代碼：
 
-<script src="https://hardway120308.github.io/no-mirroring/main.script"></script>
+<blockquote>&lt;script src="https://hardway120308.github.io/no-mirroring/main.script"&gt;&lt;/script&gt;</blockquote>
 
 就大功告成啦！
